@@ -8,6 +8,7 @@ public class NavidSpringSecurityApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(NavidSpringSecurityApplication.class, args);
+        
     }
 
 }
